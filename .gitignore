@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+dist/
+tmp/
+out-tsc/
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled output
+*.js
+*.js.map
+*.d.ts
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Testing
+karma.conf.js
+protractor.conf.js
+
+# Environment variables
+.env
+.env.prod
+.env.prod.local
+.env.local
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
